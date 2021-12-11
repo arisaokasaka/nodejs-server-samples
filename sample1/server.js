@@ -7,4 +7,4 @@ const server = http.createServer(function(_req, res) {
 })
 
 server.listen(1224)
-console.log('サーバーを起動しました')
+console.log('サーバーを起動しました。port: 1224')

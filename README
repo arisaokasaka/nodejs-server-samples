@@ -1,5 +1,13 @@
 ```
-node server.js
+node sample1/server.js
 ```
 
-[http://localhost:1224/](http://localhost:1224/)にアクセス
+- [http://localhost:1224/](http://localhost:1224/)にアクセス
+- 「Hello World」が表示される
+
+```
+node sample2/server.js
+```
+
+- [http://localhost:1225/](http://localhost:1225/)にアクセス
+- 「title, text」が表示される
