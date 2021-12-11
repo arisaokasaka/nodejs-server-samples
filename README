@@ -11,3 +11,10 @@ node sample2/server.js
 
 - [http://localhost:1225/](http://localhost:1225/)にアクセス
 - 「title, text」が表示される
+
+```
+node sample3/server.js
+```
+
+- [http://localhost:1226/](http://localhost:1226/)にアクセス
+- 「最初のページ」が表示される
