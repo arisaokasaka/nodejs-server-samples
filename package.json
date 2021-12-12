@@ -4,7 +4,8 @@
     "sample2": "node sample2/server.js",
     "sample3": "node sample3/server.js",
     "sample4": "node sample4/server.js",
-    "sample5": "node sample5/server.js"
+    "sample5": "node sample5/server.js",
+    "sample6": "node sample6/server.js"
   },
   "devDependencies": {
     "query-string": "^7.0.1"

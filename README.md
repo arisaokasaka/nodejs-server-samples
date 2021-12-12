@@ -51,4 +51,17 @@ yarn sample5
 ```
 
 - [http://localhost:1228/](http://localhost:1228/)にアクセス
-- 「最初のページ」が表示される
+- GET リンクと POST ボタンが表示される。
+
+## Sample6
+
+静的ファイルを供給するファイルサーバ。
+
+```
+yarn sample6
+```
+
+- [http://localhost:1229/test.png](http://localhost:1229/test.png)にアクセス
+- 画像が表示され、ファビコンも表示されている。
+
+stream オブジェクト：Node.js でストリーミングデータを扱うためのインターフェース。読み取り可能、書き込み可能、両方などデータの権限も設定可能。
