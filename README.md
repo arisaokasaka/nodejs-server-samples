@@ -75,3 +75,5 @@ EJS: テンプレートエンジンの 1 つ。テンプレート（HTML）上�
 ```
 yarn sample7
 ```
+- [http://localhost:1230/test.png](http://localhost:1230/test.png)にアクセス
+- いちご、メロン、バナナなどが表示される
