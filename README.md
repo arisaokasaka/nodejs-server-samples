@@ -1,4 +1,4 @@
-# Node.jsで色々やってみる
+# Node.js で色々やってみる
 
 ## Sample1
 
@@ -75,5 +75,16 @@ EJS: テンプレートエンジンの 1 つ。テンプレート（HTML）上�
 ```
 yarn sample7
 ```
+
 - [http://localhost:1230/](http://localhost:1230/)にアクセス
 - いちご、メロン、バナナなどが表示される
+
+## Sample8
+
+EJS をネストさせる
+
+```
+yarn sample8
+```
+
+- [http://localhost:1231/](http://localhost:1231/)にアクセス
